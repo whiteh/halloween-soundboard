@@ -1,5 +1,5 @@
 ## Halloween Soundboard
-## Mark Greenwood for WythyDojo
+## Mark Greenwood for WythyDojo (@wythydojo)
 ## To be used with makey-makey and pumpkins
 
 ## Python 2.7 and Pygame - http://www.pygame.org/download.shtml
